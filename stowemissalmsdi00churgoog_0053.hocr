@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./stowemissalmsdi00churgoog_0053.png"; bbox 0 0 1554 2578; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 349 618 1147 710">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 349 618 1147 710">
+     <span class='ocr_line' id='line_1_1' title="bbox 349 618 1147 710; baseline -0.009 -15"><span class='ocrx_word' id='word_1_1' title='bbox 349 618 1147 710; x_wconf 55' lang='lat' dir='ltr'><strong>Omfl&#39;ffimssmb&#39;mffmq</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 361 706 1158 843">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 361 706 1158 841">
+     <span class='ocr_line' id='line_1_2' title="bbox 361 706 1137 770; baseline -0.001 -9"><span class='ocrx_word' id='word_1_2' title='bbox 361 716 467 770; x_wconf 61' lang='lat'><strong>952³</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 481 706 1137 770; x_wconf 55' lang='lat' dir='ltr'><strong>mevranffmmur</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 361 776 1158 843; baseline 0 -11"><span class='ocrx_word' id='word_1_4' title='bbox 361 776 1052 841; x_wconf 54' lang='grc' dir='ltr'><strong>θΓῶὺἋΜποΓδῆΰ-εὼᾱτππ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1037 804 1158 843; x_wconf 99' lang='grc' dir='ltr'><strong>τηεν</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
